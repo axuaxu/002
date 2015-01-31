@@ -1,2 +1,0 @@
-# axuaxu.github.com
-jekyll
